@@ -1,4 +1,4 @@
-<keymap version="1" name="VSCode copy" parent="VSCode">
+<keymap version="1" name="VSCode copy">
   <action id="CloseActiveTab" />
   <action id="CloseAllEditors" />
   <action id="CloseContent">
@@ -10,6 +10,9 @@
   </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl u" />
+  </action>
+  <action id="EditorBackSpace">
+    <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift alt up" />
