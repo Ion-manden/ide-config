@@ -15,6 +15,5 @@
     <mask>*.php</mask>
     <mask>*.xml</mask>
     <mask>*.twig</mask>
-    <mask>*.js</mask>
   </component>
 </application>
