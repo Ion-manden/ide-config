@@ -3,8 +3,6 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <removed_mapping ext="js" type="JavaScript" />
-      <mapping ext="js" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
