@@ -13,10 +13,10 @@
     <mask>*.phtml</mask>
     <mask>*.ctp</mask>
     <mask>*.xml</mask>
-    <mask>*.twig</mask>
     <mask>*.js</mask>
     <mask>*Subscriber.php</mask>
     <mask>*.php</mask>
     <mask>*.tpl</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
