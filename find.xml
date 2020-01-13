@@ -17,6 +17,8 @@
     <mask>*Subscriber.php</mask>
     <mask>*.php</mask>
     <mask>*.tpl</mask>
+    <mask>*.js</mask>
+    <mask>*.scss</mask>
     <mask>*.twig</mask>
     <mask>*.js</mask>
   </component>
