@@ -20,6 +20,7 @@
     <mask>*.twig</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.blade.php</mask>
     <mask>*.html.twig</mask>
   </component>
 </application>
